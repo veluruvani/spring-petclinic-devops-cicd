@@ -55,13 +55,13 @@
     <repository>
       <id>deployment</id>
       <name>Internal Releases</name>
-      <url>http://13.201.93.207:8081/repository/petclinic-release/</url>
+      <url>http://13.201.93.207:8081/repository/pet-release/</url>
     </repository>
 
     <snapshotRepository>
       <id>deployment</id>
       <name>Internal Snapshot Releases</name>
-      <url>http://13.201.93.207:8081/repository/petclinic-snapshot/</url>
+      <url>http://13.201.93.207:8081/repository/pet-snapshot/</url>
     </snapshotRepository>
 
   </distributionManagement>
