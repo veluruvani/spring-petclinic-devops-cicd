@@ -61,7 +61,7 @@
     <snapshotRepository>
       <id>deployment</id>
       <name>Internal Snapshot Releases</name>
-      <urlhttp://13.201.93.207:8081/repository/petclinic-snapshot/</url>
+      <url>http://13.201.93.207:8081/repository/petclinic-snapshot/</url>
     </snapshotRepository>
 
   </distributionManagement>
